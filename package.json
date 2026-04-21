@@ -1,0 +1,6 @@
+{
+  "name": "getaway-backend",
+  "version": "1.0.0",
+  "description": "Secure backend for Getaway travel app",
+  "private": true
+}
